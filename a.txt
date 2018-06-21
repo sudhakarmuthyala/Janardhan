@@ -1,3 +1,2 @@
-echo "This is Praveen"
 echo "This is a merge purpose"
 
